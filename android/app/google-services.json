@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141585359664",
+    "project_id": "siskamling-dc346",
+    "storage_bucket": "siskamling-dc346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141585359664:android:2c97d7d7ff7deeb4c25ef5",
+        "android_client_info": {
+          "package_name": "com.siskamling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141585359664-fu2jtnihtuc0uqfhoelr3af3qhqvi02l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirp4452KeAzCb8J0cUQmZZQ0mGah4Aio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141585359664-fu2jtnihtuc0uqfhoelr3af3qhqvi02l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
